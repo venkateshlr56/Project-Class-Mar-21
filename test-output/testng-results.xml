@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59" started-at="2021-03-15T10:48:55Z" finished-at="2021-03-15T10:48:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59" started-at="2021-03-15T10:48:55Z" finished-at="2021-03-15T10:48:55Z">
+      <class name="org.data.Demo">
+        <test-method status="PASS" signature="beforesuite()[pri:0, instance:org.data.Demo@ae45eb6]" name="beforesuite" is-config="true" duration-ms="10" started-at="2021-03-15T10:48:55Z" finished-at="2021-03-15T10:48:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:org.data.Demo@ae45eb6]" name="beforeTest" is-config="true" duration-ms="8" started-at="2021-03-15T10:48:55Z" finished-at="2021-03-15T10:48:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:org.data.Demo@ae45eb6]" name="beforeclass" is-config="true" duration-ms="0" started-at="2021-03-15T10:48:55Z" finished-at="2021-03-15T10:48:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.data.Demo@ae45eb6]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-03-15T10:48:55Z" finished-at="2021-03-15T10:48:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test()[pri:0, instance:org.data.Demo@ae45eb6]" name="test" duration-ms="8" started-at="2021-03-15T10:48:55Z" finished-at="2021-03-15T10:48:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.data.Demo@ae45eb6]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-03-15T10:48:55Z" finished-at="2021-03-15T10:48:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:org.data.Demo@ae45eb6]" name="test1" duration-ms="2" started-at="2021-03-15T10:48:55Z" finished-at="2021-03-15T10:48:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.data.Demo@ae45eb6]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-03-15T10:48:55Z" finished-at="2021-03-15T10:48:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.data.Demo@ae45eb6]" name="afterClass" is-config="true" duration-ms="0" started-at="2021-03-15T10:48:55Z" finished-at="2021-03-15T10:48:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:org.data.Demo@ae45eb6]" name="afterTest" is-config="true" duration-ms="0" started-at="2021-03-15T10:48:55Z" finished-at="2021-03-15T10:48:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.data.Demo@ae45eb6]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-03-15T10:48:55Z" finished-at="2021-03-15T10:48:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="aftersuite()[pri:0, instance:org.data.Demo@ae45eb6]" name="aftersuite" is-config="true" duration-ms="0" started-at="2021-03-15T10:48:55Z" finished-at="2021-03-15T10:48:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- org.data.Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

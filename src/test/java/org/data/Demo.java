@@ -64,4 +64,9 @@ public class Demo {
 	private void test1() {
 		System.out.println("test1");
 	}
+	
+	private void newMethod() {
+		// TODO Auto-generated method stub
+
+	}
 }
